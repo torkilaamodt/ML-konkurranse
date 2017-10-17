@@ -16,7 +16,7 @@ Therese <br />
 
 Lag 3: <br />
 William <br />
-Alexandra B (hospitant)
+Alexandra B <br />
 Michael <br />
 
 Lag 4: <br />
@@ -26,13 +26,12 @@ Therese <br />
 
 Lag 5: <br />
 Asbjørn <br />
-Alexandra B <br />
+Rahil <br />
 Jørgen <br />
 
 Lag 6: <br />
 Ole-Martin <br />
 Kristian <br />
-Rahil <br />
 Mikael B <br />
 
 ## Tidsplan
