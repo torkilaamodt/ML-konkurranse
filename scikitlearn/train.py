@@ -8,7 +8,7 @@ X = []
 y = []
 path = '../data/Treningsdata/normalisert_training_data_without_header.csv'
 def readDataSet():
-    with open(path, 'rb') as csvfile:
+    with open(path, 'rU') as csvfile:
         reader = csv.reader(csvfile, delimiter=';', quotechar='|')
         for row in reader:
                 row = list(map(lambda x: float(x), row))
