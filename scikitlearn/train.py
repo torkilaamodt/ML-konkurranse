@@ -30,6 +30,7 @@ mse = MSE( y, p )
 rmse = sqrt( mse )
 print rmse
 
+
 #-------------------------------------------------------
 # Skriv resultat til fil
 
