@@ -19,11 +19,9 @@ def readTarget():
                 y_predicted.append(float(row[0]))
     return y_predicted
 
-
-
 def score(groupname):
-    y = readDataSet(groupname)
-    y_predicted = readTarget()
+    y_predicted = readDataSet(groupname)
+    y = readTarget()
 
     mse = MSE( y, y_predicted )
     rmse = sqrt( mse )
