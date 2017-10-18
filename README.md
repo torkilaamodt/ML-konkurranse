@@ -1,6 +1,21 @@
 # ML-konkurranse
 Vi estimerer boligpriser i King County, USA.
 
+## Intro
+
+Repoet inneholder to datasett. Et treningsdatasett med fasit og et testsett uten fasit. Dere skal prediktere boligpriser for testsettet. Begge settene består av to versjoner, et normalisert og et ikke normalisert. Prediksjonene som leveres inn skal være ikke normalisert. Vi har lag ved et skript for å denormalisere data.
+
+Forklaring av datasett finnes her:
+https://www.kaggle.com/harlfoxem/housesalesprediction/data
+
+Det er lagt med et skall for scikit-learn for å enkelt komme i gang. Men dere kan bruke akkurat det rammeverket dere vil.
+
+````
+git clone git@github.com:birhaa/ML-konkurranse.git
+cd scikitlearn
+python train.py
+````
+
 ## Lag
 
 ### Lag 1:
