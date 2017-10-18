@@ -5,8 +5,9 @@ Vi estimerer boligpriser i King County, USA.
 
 ### Lag 1:
 Torkil <br />
-Martin H <br />
 Hans-Christian <br />
+Mikael B <br />
+Kristian <br />
 
 ### Lag 2: 
 Trygve <br />
@@ -27,11 +28,6 @@ Therese <br />
 Asbjørn <br />
 Rahil <br />
 Jørgen <br />
-
-### Lag 6:
-Ole-Martin <br />
-Kristian <br />
-Mikael B <br />
 
 ## Tidsplan
 15:40: Forklare konkurransen <br />
