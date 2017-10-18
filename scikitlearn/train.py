@@ -28,7 +28,7 @@ print("Training set score: %f" % mlp.score(X, y))
 p = mlp.predict(X);
 mse = MSE( y, p )
 rmse = sqrt( mse )
-print rmse
+print(rmse)
 
 
 #-------------------------------------------------------
